@@ -7,7 +7,7 @@
                     <div class="col-md-4">
                         <div class="profile-img">
                           <form action="Includes/imgUpload.inc.php" method="POST">
-                            <img src="Images/Me.jpg" alt=""/>
+                            <img src="Images/Profile.jpg" alt=""/>
                             <div class="file btn btn-lg btn-primary">
                                 Change Photo
                                   <input type="file" name="image"/>
